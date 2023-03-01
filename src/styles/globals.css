@@ -366,7 +366,7 @@ footer .footer-bottom .follow-us-discount {
 }
 .home-header .first-slider,
 .home-header .second-slider {
-  background: url("../../public/images/slider-1.png");
+  background: url("/images/slider-1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -377,7 +377,7 @@ footer .footer-bottom .follow-us-discount {
   z-index: 100;
 }
 .home-header .second-slider {
-  background: url("../../public/images/slider-2.png");
+  background: url("/images/slider-2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -515,7 +515,7 @@ footer .footer-bottom .follow-us-discount {
 /*subscribe-content*/
 .subscribe-content {
   margin-top: 50px;
-  background: url("../../public/images/banner-10.png") center/cover no-repeat;
+  background: url("/images/banner-10.png") center/cover no-repeat;
   padding: 84px 78px;
   display: table;
   width: 100%;
