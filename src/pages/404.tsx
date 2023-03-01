@@ -19,7 +19,7 @@ const ErrorPage = () => {
           The link you clicked may be broken or the page may have been removed.
           <br />
           visit the <Link href="/">Homepage</Link> or
-          <Link href="/contact-us"> Contact us</Link> about the problem
+          <Link href="/contact"> Contact us</Link> about the problem
         </p>
         <Link href="/" className="homepage d-flex align-items-center">
           <span className="homepage-svg">
